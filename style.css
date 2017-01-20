@@ -1,0 +1,23 @@
+#firsth1{
+	color: blue;
+}
+
+#secondh1{
+	color: pink;
+}
+#h2{
+	margin-left: 100px;
+	border: thin solid blue;
+	margin-bottom: 100px;
+	height: 50px;
+	min-width: 100px;
+	}
+.dogpic{
+	hight: 10vw;
+	display: inline-block;
+	}
+#dograp{
+hight: 200px;
+with: 400px;
+background-color: lightgreen;
+	}
